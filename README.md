@@ -1,4 +1,4 @@
-Update - Jan 1, 2021
+# Update - Jan 1, 2021
 
 The release of pyNTM 3.0 is pending, with a target release date no later than Jan 21.  These training modules will be updated shortly after that release.
 
