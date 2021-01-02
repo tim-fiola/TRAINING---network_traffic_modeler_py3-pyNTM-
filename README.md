@@ -1,10 +1,12 @@
 # Update - Jan 1, 2021
 
-The release of pyNTM 3.0 is pending, with a target release date no later than Jan 21.  These training modules will be updated shortly after that release.
+pyNTM 3.0 is released. These training modules will be updated shortly (target no later than Jan 21, 2021).
 
-The big feature will be an interactive visualization weathermap (in beta status), which allows the user to visualize the network map and things like LSP and traffic demand paths.  
+The big feature is an interactive visualization weathermap (in beta status), which allows the user to visualize the network map and things like LSP and traffic demand paths.  
 
 The weathermap also allows the user to quickly switch between a selected LSP, traffic Demand, and associated Interfaces.  If you are curious, please check out the development branch WeatherMap class.  There are examples in the development branch's 'examples' directory.  
+
+More info is available in the pyNTM repository wiki: https://github.com/tim-fiola/network_traffic_modeler_py3/wiki/Visualizing-the-network-with-the-WeatherMap-Class-(beta)
 
 Thank you!
 
