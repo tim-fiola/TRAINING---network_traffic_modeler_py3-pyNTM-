@@ -2,7 +2,7 @@
 
 pyNTM 3.0 is released. These training modules will be updated shortly (target no later than Jan 21, 2021).
 
-The big feature is an interactive visualization weathermap (in beta status), which allows the user to visualize the network map and things like LSP and traffic demand paths.  
+The big new feature in 3.0 is an interactive visualization weathermap (in beta status), which allows the user to visualize the network map and things like LSP and traffic demand paths.  
 
 The weathermap also allows the user to quickly switch between a selected LSP, traffic Demand, and associated Interfaces.  If you are curious, please check out the development branch WeatherMap class.  There are examples in the development branch's 'examples' directory.  
 
